@@ -94,6 +94,25 @@
 					"url": "http://thaiip.tv/t100",
 					"import": true
 				}
+{
+			"name": "แบ่งปัน_ update_020920",
+			"image": "https://dl.dropbox.com/s/d21dd4lt0tawgs8/logo.png",
+			"url": "https://dl.dropbox.com/s/lkkosk52uzg5yky/b%C3%A0eng%20bpan%28Web%29.m3u",
+			
+		                },
+	
+{
+			"name": "WebFreeTVDeDe",
+			"image": "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
+			"url": "https://dl.dropbox.com/s/e13jbiyuo4ps51g/freetvdd.m3u",
+			
+		                },	
+{
+			"name": "เก่าๆ เราไม่มี  by DMT" ,
+			"image": "https://dl.dropbox.com/s/oyk71pdib1ommt1/logo-serie.png",
+			"url": "https://dl.dropbox.com/s/e5gglp094as6bsa/freedrama.w3u",
+			
+		                },					
 ]
 }
 ]
