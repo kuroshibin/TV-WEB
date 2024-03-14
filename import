@@ -1,102 +1,11 @@
-{ 
-"name": "Import Playlist", 
-"author": "[Ton]Android-แบ่งปัน", 
-"url": "http://w3ubin.com/gO_8UQm5y.w3u", 
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2JJ1YwsEbq_hCOD7FR28BW0Q7ePhbTkkWDw&usqp=CAU",
-	"groups": [
+#EXTM3U  
 
-		{
-			"name": "Playlist 📺 🎬 📽️",
-			"image": "https://dl.dropboxusercontent.com/s/xedvnlunfzinclp/lTONl.jpg",
-               "groups": [
+# Join Telegram Group: https://t.me/iptvth
+# =======================================================
+# Playlist Name: Nikorn. Phanthong
+# Last Update: 2024-03-14 15:59:42 UTC+07 ICT
+# =======================================================
 
-		{
-			"name": "M3U📀WEB",
-			"image": "https://freeiconshop.com/wp-content/uploads/edd/code-flat.png",
-
-			"stations": [{
-					"name": "m3u(web)@Ton[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "http://w3ubin.com/Uj1J7LIJ8.w3u",
-					"import": true
-				},
-				{
-					"name": "m3u(web)@thanyut[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://gg.gg/baengbpan_web",
-					"import": true
-				},
-                {
-					"name": "m3u(web)@วุฒิ[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/Wed-ADShare",
-					"import": true
-				},
-                
-                                {
-					"name": "m3u(web)@กระเทียม",
-                    "image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "http://tiny.cc/wiseplay",
-					"import": true
-				}
-				]
-},
-
-		{
-			"name": "M3U📀M3U8",
-			"image": "https://www.file-extension.info/images/resource/formats/m3u8.png",
-
-			"stations": [{
-					"name": "m3u(m3u8)@Ton[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/2wCFU8R",
-					"import": true
-				},
-{
-					"name": "m3u(m3u8)@Akimidis[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/2P76ZXZ",
-					"import": true
-				},
-  {
-					"name": "m3u(m3u8)@thanyut[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://gg.gg/baengbpan_iptv",
-					"import": true
-				},              
-{
-					"name": "m3u(m3u8)@วุฒิ[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/ADShare",
-					"import": true
-				},       
-                {
-					"name": "m3u(m3u8)@North[AS]",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/30ltIWC",
-					"import": true
-				},
-{
-					"name": "m3u(m3u8)@WiseKnow",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "https://bit.ly/9W8K8C9",
-					"import": true
-				},
-{
-					"name": "m3u(m3u8)@ThaiIPTV-Free",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "http://thaiip.tv/free",
-					"import": true
-				},
-{
-					"name": "m3u(m3u8)@ThaiIPTV-New",
-					"image": "https://www.file-extension.info/images/resource/formats/m3u.png",
-					"url": "http://thaiip.tv/t100",
-					"import": true
-				}
-]
-}
-]
-}
-]
-}
+#EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_3_HD_.png",Channel_3_HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://playerhls.com/tv/video-player.php?url=https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1710449701&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=0ULZ6pRa3Cxs6hsHJiWVMw
