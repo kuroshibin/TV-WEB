@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_3_HD_.png",Channel_3_HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://playerhls.com/?url=https%3A%2F%2Fch3-33-web.cdn.byteark.com%2Flive%2Fplaylist.m3u8%3Fx_ark_access_id%3DD78MkxZFEr5Zr9PE%26x_ark_auth_type%3Dark-v2%26x_ark_expires%3D1710762302%26x_ark_max_resolution%3D720p%26x_ark_path_prefix%3D%2Flive%2F%26x_ark_signature%3Dgdo_Q7mmshJUVyjamLmyZg
 
 #EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/TATV5_Logo_HD.png",Channel_5_HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
