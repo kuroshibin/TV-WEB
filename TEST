@@ -1,9 +1,15 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
+
 #EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=640x480
 https://cdn77-vid.xnxx-cdn.com/WWPleB2FiETa3IHtpKIxbg==,1711706682/videos/hls/f4/ad/15/f4ad15076e2aac2ece48c01caa470ebf/hls-480p-911ee.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
+
 #EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=640x480
 https://9emb.com/playlist/54519477.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
+
 #EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=452x480
-https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8??vhost=streaming-ch3-33-web.cdn.byteark.com
+
+#EXT-X-STREAM-INF:BANDWIDTH=1092,RESOLUTION=1028x720
+https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.m3u8
