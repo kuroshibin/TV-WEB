@@ -13,8 +13,8 @@ https://9emb.com/playlist/54519477.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
 https://ch3-33-web.cdn.byteark.com/live/playlist_480p.m3u8?vhost=streaming-ch3-33-web.cdn.byteark.com
 
 #EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/TATV5_Logo_HD.png",Channel_5_HD
-#EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=452x480
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist_720p.m3u8?vhost=streaming-streamlock.net
+#EXT-X-STREAM-INF:BANDWIDTH=1092,RESOLUTION=640x480
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist_480p.m3u8?vhost=streaming-streamlock.net
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png",Channel_7_HD
 #EXT-X-STREAM-INF:BANDWIDTH=1092,RESOLUTION=1028x720
