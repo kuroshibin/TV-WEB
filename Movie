@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=480x360 /m3u8/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee168.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080 /m3u8/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee438.m3u8
-https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=480x360
+https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
