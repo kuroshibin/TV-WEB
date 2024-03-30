@@ -5,6 +5,8 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:-1
-#EXT-X-STREAM-INF:BANDWIDTH=4096,RESOLUTION=640x480
-https://cdn77-vid.xnxx-cdn.com/osL1DEybr2dy6NIxZZoqwQ==,1711759966/videos/hls/5d/53/cf/5d53cf3def9f4c23439d9200f722aca3/hls-480p-9a2b6.m3u8/get.php?username=11111&password=22222&type=m3u
-sEXT-X-ENDLIST
+
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=4096,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
+https://cdn77-vid.xnxx-cdn.com/0fE6S7nQwFab2aaCttP3cA==,1711845483/videos/hls/c7/25/8f/c7258fc9e8626cb3ccd738dc3a4f1532/hls-720p-b9a47.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
+#EXT-X-ENDLIST
