@@ -38,3 +38,4 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
 https://ip296322386.ahcdn.com//get.php?username=11111&password=11111&type=m3u
 
+#EXT-X-ENDLIST
