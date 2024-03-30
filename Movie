@@ -11,11 +11,11 @@ https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd6
 https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
 
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_002123.jpg",DRAGON BALL Z BATTLE OF GODS 2014
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
-https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8??vhost=streaming-hlsp2p.xyz
+https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8?vhost=streaming-hlsp2p.xyz
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0330_153104.jpg",JOHN WICK: CHAPTER 4
