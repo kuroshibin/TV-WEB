@@ -2,13 +2,6 @@
 #EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-name=XXX-01
-#EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=640x480
-https://cdn77-vid.xnxx-cdn.com/WWPleB2FiETa3IHtpKIxbg==,1711706682/videos/hls/f4/ad/15/f4ad15076e2aac2ece48c01caa470ebf/hls-480p-911ee.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
-
-#EXTINF:-1 tvg-name=XXX-02
-#EXT-X-STREAM-INF:BANDWIDTH=1024,RESOLUTION=640x480
-https://9emb.com/playlist/54519477.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB /master/LoGo/Channel_3_HD_.png",Channel_3_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
@@ -16,26 +9,21 @@ https://9emb.com/playlist/54519477.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=452x480
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?vhost=streaming-ch3-33-web.cdn.byteark.com
 
-
-
-
-
 #EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/TATV5_Logo_HD.png",Channel_5_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://639bc5877c5fe.streamlock.net/tv5hdlive/
 #EXT-X-STREAM-INF:BANDWIDTH=1092,RESOLUTION=640x480
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist_480p.m3u8?vhost=streaming-streamlock.net
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png",Channel_7_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
-#EXT-X-STREAM-INF:BANDWIDTH=1092,RESOLUTION=1028x720
 https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png",Channel_7_HD",XXX
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_9_MCOT_HD_2017.png",Channel_9_MCOT_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
-https://ip296322386.ahcdn.com//get.php?username=11111&password=11111&type=m3u
 
 #EXT-X-ENDLIST
