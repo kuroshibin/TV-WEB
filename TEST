@@ -22,7 +22,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.
 
 
 
-#EXTINF:-1 group-title="Digital TV" tvg-name="Channel_9_MCOT_HD"  tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_9_MCOT_HD_2017.png"
+#EXTINF:-1 group-title="Digital TV",Channel_9_MCOT_HD tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_9_MCOT_HD_2017.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com/
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1080x720
