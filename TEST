@@ -15,14 +15,14 @@ https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?vhost=streaming-ch3-33-web
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=640x480
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist_480p.m3u8?vhost=streaming-streamlock.net
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png",Channel_7_HD
+#EXTINF:-1 group-title="Digital TV",Channel_7_HD tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
 https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.m3u8
 
 
 
-#EXTINF:-1 group-title="Digital TV",Channel_9_MCOT_HD tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_9_MCOT_HD_2017.png"
+#EXTINF:-1 group-title="Digital TV",Channel_9_MCOT_HD tvg-logo="
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com/
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1080x720
