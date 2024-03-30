@@ -1,13 +1,18 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/newplaylist/
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=480x360
 https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
 https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
 
 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
 https://hlsp2p.xyz/view/429e14e2-5d7a-542e-b5b1-1804c695775f.m3u8?vhost=streaming-www.037hdmovie.com/
+#EXT-X-ENDLIST
