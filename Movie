@@ -1,11 +1,14 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-ALLOW-CACHE:YES
 
 #EXTINF:-1 tvg-name=หนังไม่ทราบชื่อ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.24playerhd.com/newplaylist/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=480x360
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=480x360,CODECS="avc1.42e00a,mp4a.40.2"
 https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
 https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8?vhost=streaming-main.24playerhd.com
@@ -14,29 +17,27 @@ https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_002123.jpg",DRAGON BALL Z BATTLE OF GODS 2014
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8?vhost=streaming-hlsp2p.xyz
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0330_153104.jpg",JOHN WICK: CHAPTER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0330_155231.jpg",DRAGON BALL Z RESURRECTION ‘F’ (2015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streaming-hlsp2p.xyz
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_143733.jpg",BULLETPROOF (1996) คู่ระห่ำ ซ่าส์ท้านรก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
-/files/8287e0fa3d2079246ea464656bf80a80_original.txt_plus&output=m3u8
-https://hlsp2p.xyz /view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8??vhost=streaming-hlsp2p.xyz
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8?vhost=streaming-hlsp2p.xyz
 
 
 
