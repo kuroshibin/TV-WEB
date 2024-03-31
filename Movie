@@ -29,3 +29,14 @@ https://hlsp2p.xyz/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8?vhost=streamin
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
 https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streaming-hlsp2p.xyz
+
+
+#EXTINF:-1      ,BULLETPROOF (1996) คู่ระห่ำ ซ่าส์ท้านรก
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+/files/8287e0fa3d2079246ea464656bf80a80_original.txt
+https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8
+
+
+
+
+
