@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.xnxx.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
-https://cdn77-vid.xnxx-cdn.com/0fE6S7nQwFab2aaCttP3cA==,1711845483/videos/hls/c7/25/8f/c7258fc9e8626cb3ccd738dc3a4f1532/hls-720p-b9a47.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
+https://playerhls.com/tv/video-player.php?url=https://cdn77-vid.xnxx-cdn.com/SVgjnWIAmcY7mKITnXGJMQ==,1711859971/videos/hls/01/c2/e1/01c2e1a245ee6ad61c5669083f1f566c/hls-720p-1a104.m3u8?vhost=streaming-playerhls.com
 
 #EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
