@@ -4,13 +4,16 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:YES
-#EXTINF:-1
 
+#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.xnxx.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
-#EXT-X-STREAM-INF:BANDWIDTH=4096,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://cdn77-vid.xnxx-cdn.com/0fE6S7nQwFab2aaCttP3cA==,1711845483/videos/hls/c7/25/8f/c7258fc9e8626cb3ccd738dc3a4f1532/hls-720p-b9a47.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
 
-
+#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.xnxx.com/
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://9emb.com/playlist/48017073.m3u8??vhost=streaming-9emb.com
-
 #EXT-X-ENDLIST
