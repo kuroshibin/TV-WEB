@@ -9,4 +9,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
 #EXT-X-STREAM-INF:BANDWIDTH=4096,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://cdn77-vid.xnxx-cdn.com/0fE6S7nQwFab2aaCttP3cA==,1711845483/videos/hls/c7/25/8f/c7258fc9e8626cb3ccd738dc3a4f1532/hls-720p-b9a47.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
+
+
+https://9emb.com/playlist/48017073.m3u8??vhost=streaming-9emb.com
+
 #EXT-X-ENDLIST
