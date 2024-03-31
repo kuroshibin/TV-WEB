@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:0  
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-ALLOW-CACHE:YES
 
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB /master/LoGo/Channel_3_HD_.png",Channel_3_HD
