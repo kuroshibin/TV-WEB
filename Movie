@@ -37,7 +37,13 @@ https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streamin
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8?vhost=streaming-hlsp2p.xyz
+#EXT-X-ENDLIST
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Explosion-of-Dragon-Punch-1995.jpg",DRAGON BALL Z WRATH OF THE DRAGON (1995) ฤทธิ์หมัดมังกรถล่มโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/4d5543e4-429c-5f5a-aee6-58fad1a992f6.m3u8?vhost=streaming-hlsp2p.xyz
 #EXT-X-ENDLIST
 
 
