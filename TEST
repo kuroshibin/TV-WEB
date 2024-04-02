@@ -48,10 +48,15 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?vhost=s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.adintrend.tv
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
-https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzQ5NzZjMjIxYWE1YWUwZDdlYwMTA5NTk5NjJlMjFhMTAz&?vhost=streaming-p1.cdn.vet
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzQ5NzZjMjIxYWE1YWUwZDdlYwMTA5NTk5NjJlMjFhMTAz&vhost=streaming-p1.cdn.vet
 #EXT-X-ENDLIST
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3AE77Xd-Ezp3Pcju4GgBU1AD2YHaBEnMPW_rZ3DD6cNtO79PbkwqPGMw&s=10",ช่อง ONE-31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.looxtv.net
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
+https://edge2.thaicom.io/v3/td/ONE_HD/chunklist_live_480p_Swg79.m3u8?uuid=6d2c3d00-a4c3-4363-af4a-333d19ebb4c9&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiNmQyYzNkMDAtYTRjMy00MzYzLWFmNGEtMzMzZDE5ZWJiNGM5IiwiY2hhbm5lbCI6Ik9ORV9IRCIsInF1YWxpdHkiOiJBMSIsImlhdCI6MTcxMjA2Mzk3MSwibmJmIjoxNzEyMDYzOTcxLCJleHAiOjE3MTIwOTI3NzF9.Mmt0aaeb2ZKnlOVs3LLAYOCoSJRs2NaD6zpM54Q8ou8&device=loox-web?vhost=streaming-edge2.thaicom.io
+#EXT-X-ENDLIST
 
 
 
