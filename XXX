@@ -16,7 +16,7 @@ https://em-h.phncdn.com/hls/videos/202310/24/441787141/,1080P_4000K,720P_4000K,4
 #EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.xnxx.com/
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://9emb.com/playlist/48017073.m3u8??vhost=streaming-9emb.com
 #EXT-X-ENDLIST
 
@@ -29,7 +29,7 @@ https://cdn77-vid.xnxx-cdn.com/tPXuH_JVZuwiay72hANnOw==,1712077052/videos/hls/0b
 
 #EXTINF:-1 tvg-logo="https://xn--12cl4bav1iqa4a0lc9ed.tv/wp-content/uploads/2024/03/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87AV-JUQ-276-1-1.jpg",JUQ-276 เย็ดหีแม่ยายคนสวย Yuna Shiina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://vz-da56765a-6b9.b-cdn.net/
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
-https://vz-da56765a-6b9.b-cdn.net/c658a024-f6b7-4029-a5e0-01016dd3b88b/playlist.m3u8?vhost=streaming-vz-da56765a-6b9.b-cdn.net
+#EXTVLCOPT:http-referrer=https://xn--12cl4bav1iqa4a0lc9ed.tv/
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://vz-1cf4534d-b48.b-cdn.net/7fcaad4a-180e-4b0e-855a-f83224b7ca74/1280x720/video.m3u8?vhost=streaming-vz-1cf4534d-b48.b-cdn.net
 #EXT-X-ENDLIST
