@@ -2,7 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:NO
 
 
@@ -60,6 +59,7 @@ https://edge2.thaicom.io/v3/td/ONE_HD/chunklist_live_480p_Swg79.m3u8?uuid=6d2c3d
 
 #EXTINF:-1 tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_27.png",ไทยรัฐ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-proxy=https://playerhls.com:80
 #EXTVLCOPT:http-referrer=www.looxtv.net
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index?,CODECS="avc1.42e00a,mp4a.40.2"
 https://edge12.thaicom.io/v3/ta/ThairathTV/chunklist_live_480p_TrzWO.m3u8?uuid=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiIiwiZXhwIjoxNzEyMDk0NTk3LCJpYXQiOjE3MTIwODczOTcsInF1YWxpdHkiOiJBMSIsIm5iZiI6MTcxMjA4NzM5NywiY2hhbm5lbCI6IlRoYWlyYXRoVFYifQ.jOrJ7BUtihZ2GoWMh7Kj6IoXTC3yWRyg0BM8g1gHSn4&device&vhost=streaming-edge12.thaicom.io
