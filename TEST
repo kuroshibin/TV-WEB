@@ -44,7 +44,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playl
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1080x720,416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?vhost=streaming-prsmedia-mykojh.cdn.byteark.com
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMIILCoauNqWLYqLoGAbBqd74b5-nWcpUAM4fGcA_tEyYmMzIRm1dFAk&s=10",อัมรินทร์-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.adintrend.tv
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
