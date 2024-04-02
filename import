@@ -1,8 +1,11 @@
 #EXTM3U  
+#EXT-X-MEDIA-SEQUENCE:0  
+#EXT-X-VERSION:3  
+#EXT-X-TARGETDURATION:10
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/f_DGRhkewvjsdj4EAsseFU3wZHCnB-GWNAaUN8UUCcyCCTypoRJzRZD7mtb7j_H5Lg",ทดสอบลิงค์
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1eccef61-2e9d-4e1a-9481-5d7e21547651/d5mnvq2-394933b4-52a9-4f54-af2c-588ac80e4371.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlY2NlZjYxLTJlOWQtNGUxYS05NDgxLTVkN2UyMTU0NzY1MVwvZDVtbnZxMi0zOTQ5MzNiNC01MmE5LTRmNTQtYWYyYy01ODhhYzgwZTQzNzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OnDHFffcQgmo1Re6V9jHBfnw81jd77mJL47tqq2ptdU",ทดสอบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsp2p.xyz/*.*
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8
+#EXT-X-ENDLIST
