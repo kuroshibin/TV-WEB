@@ -1,15 +1,9 @@
 #EXTM3U  
 
-# Join Telegram Group: https://t.me/iptvth
-# =======================================================
-# Playlist Name: Nikorn. Phanthong
-# Last Update: 2024-03-14 15:59:42 UTC+07 ICT
-# =======================================================
 
-#EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Channel_3_HD_.png",Channel_3_HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/f_DGRhkewvjsdj4EAsseFU3wZHCnB-GWNAaUN8UUCcyCCTypoRJzRZD7mtb7j_H5Lg",ทดสอบลิงค์
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://playerhls.com/tv/video-player.php?url=https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1710378902&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=yJxCliDk72wOMsuaR0ojzQ/.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-name="TEST LINK-FREE" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/TATV5_Logo_HD.png",Channel_5_HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+/files/f13e0036bf3b394e1a5362c84304f8e5_original.txt_plus&output=m3u8
