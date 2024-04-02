@@ -44,15 +44,12 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playl
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1080x720,416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?vhost=streaming-prsmedia-mykojh.cdn.byteark.com
 
-
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo=
+#EXTINF:-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=640x480
+#EXTVLCOPT:http-referrer=www.adintrend.tv
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzQ5NzZjMjIxYWE1YWUwZDdlYwMTA5NTk5NjJlMjFhMTAz_vhost=streaming-www.adintrend.tv
 #EXT-X-ENDLIST
-
-
 
 
 
