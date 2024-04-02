@@ -5,7 +5,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:NO
 
-#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-1
+#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=em-h.phncdn.com
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
@@ -13,19 +13,27 @@ https://em-h.phncdn.com/hls/videos/202310/24/441787141/,1080P_4000K,720P_4000K,4
 #EXT-X-ENDLIST
 
 
-#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-2
+#EXTINF:-1 tvg-logo="https://www.xnxx.com/apple-touch-icon-precomposed.png",XNXX-02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.xnxx.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://9emb.com/playlist/48017073.m3u8??vhost=streaming-9emb.com
 #EXT-X-ENDLIST
 
-#EXTINF:-1 tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxposter/0b/a2/96/0ba296dc74f99bf59db777d992cd3c5f/0ba296dc74f99bf59db777d992cd3c5f.1.jpg",XNXX-03
+#EXTINF:-1 tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/30/05/f1/3005f1e216dd6126a1f03ab8314f1dcd/3005f1e216dd6126a1f03ab8314f1dcd.17.jpg",XNXX-03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=cdn77-vid.xvideos-cdn.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://cdn77-vid.xvideos-cdn.com/X1HONlmnbd1cvO2NcOxLVw==,1712091168/videos/hls/30/05/f1/3005f1e216dd6126a1f03ab8314f1dcd/hls-480p-fa80d.m3u8?vhost=streaming-cdn77-vid.xvideos-cdn.com
+#EXT-X-ENDLIST
+
+#EXTINF:-1 tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxposter/0b/a2/96/0ba296dc74f99bf59db777d992cd3c5f/0ba296dc74f99bf59db777d992cd3c5f.1.jpg",XNXX-04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.xnxx.net/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
 https://cdn77-vid.xnxx-cdn.com/tPXuH_JVZuwiay72hANnOw==,1712077052/videos/hls/0b/a2/96/0ba296dc74f99bf59db777d992cd3c5f/hls.m3u8?vhost=streaming-cdn77-vid.xnxx-cdn.com
 #EXT-X-ENDLIST
+
 
 #EXTINF:-1 tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxposter/e0/45/03/e04503191054eedb2698476963e7ad8d/e04503191054eedb2698476963e7ad8d.20.jpg",Chubby girl Perfect pussy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
