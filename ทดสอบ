@@ -6,6 +6,5 @@
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1eccef61-2e9d-4e1a-9481-5d7e21547651/d5mnvq2-394933b4-52a9-4f54-af2c-588ac80e4371.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlY2NlZjYxLTJlOWQtNGUxYS05NDgxLTVkN2UyMTU0NzY1MVwvZDVtbnZxMi0zOTQ5MzNiNC01MmE5LTRmNTQtYWYyYy01ODhhYzgwZTQzNzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OnDHFffcQgmo1Re6V9jHBfnw81jd77mJL47tqq2ptdU",ทดสอบ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.amarintv.com
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
-https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/data/720p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1712145949&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=xyLVVcOpy-baBRR0EcTI7g
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://video.hoes.tube/get.php?username=241000&password=241309&type=m3u_plus&output=m3u8
