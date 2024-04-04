@@ -4,19 +4,28 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 
+
+
+
+
+
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Brave-One-2007.jpg",THE BRAVE ONE (2007) เดอะ เบรฟ วัน หัวใจเธอต้องกล้า
-#EXTVLCOPT:http-get=https://www.037hdmovie.com/ HTTP/1.0
-#EXTVLCOPT:http-host=hlsp2p.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.037hdmovie.com
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
-https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8
-#EXT-X-ENDLIST
+https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8?vhost=streaming-hlsp2p.xyz
 
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023.jpg",AQUAMAN AND THE LOST KINGDOM (2023) อควาแมน กับอาณาจักรสาบสูญ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/5d692eb4-1ec0-55bc-9395-232c4e307ca7.m3u8?vhost=streaming-hlsp2p.xyz
 
-
-
-
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023.jpg",INDIANA JONES AND THE DIAL OF DESTINY (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExPdQzFmx0Z6p8X3SEv4JAn9a7sza9MJhSEjXpQqW3g&s",THE LAST HOUSE ON THE LEFT (2009) วิมานนรกล่าเดนคน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
