@@ -2,10 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:YES
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Brave-One-2007.jpg",THE BRAVE ONE (2007) เดอะ เบรฟ วัน หัวใจเธอต้องกล้า
+#EXTVLCOPT:http-get=https://www.037hdmovie.com/ HTTP/1.0
+#EXTVLCOPT:http-host=hlsp2p.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.037hdmovie.com
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
