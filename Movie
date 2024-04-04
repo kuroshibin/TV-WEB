@@ -26,7 +26,7 @@ https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=480x360,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8?vhost=streaming-hlsp2p.xyz
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_002123.jpg",DRAGON BALL Z BATTLE OF GODS 2014
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_002123.jpg",DRAGON BALL Z BATTLE OF GODS 2014
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
