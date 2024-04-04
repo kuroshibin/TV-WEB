@@ -5,6 +5,18 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-ALLOW-CACHE:YES
 
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Brave-One-2007.jpg",THE BRAVE ONE (2007) เดอะ เบรฟ วัน หัวใจเธอต้องกล้า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8
+#EXT-X-ENDLIST
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExPdQzFmx0Z6p8X3SEv4JAn9a7sza9MJhSEjXpQqW3g&s",THE LAST HOUSE ON THE LEFT (2009) วิมานนรกล่าเดนคน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=hlsp2p.xyz
