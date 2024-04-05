@@ -5,6 +5,55 @@
 #EXT-X-ALLOW-CACHE:YES
 
 
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Madame-Web-2024.jpg",Madame Web (2024) มาดามเว็บ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/b969263f-2cd8-59ea-b720-1459aa3e5ace.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024.jpg",Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/3839eb1d-b9ab-5385-a1f6-3c0366b50f68.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/11/Against-the-dark-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%8C-2009.jpg",Against the dark (2009) คนระห่ำล้างพันธุ์แวมไพร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/2c7ace0b-1dca-55c2-b574-49f0e8fa7239.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023.jpg",Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/98cbf562-d013-5338-aeb3-d263191de785.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/Ride-On-2023.jpg",Ride On (2023) ควบสู้ฟัด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/4b5d99b8-8392-5ea5-ac0d-dba321c04069.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/03/The-Point-Men-%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%96%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2023.jpg",The Point Men (2023) ล็อคเป้าตาย ค่าไถ่หยุดโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/20517fce-31bd-562b-9747-d4f0101a2078.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Khun-pan-3-2023.jpg",Khun pan 3 (2023) ขุนพันธ์ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/6b7958be-9bdd-5cd9-82dd-1973915f55c4.m3u8?vhost=streaming-hlsp2p.xyz
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dUAl3Da7vvZkynSQKMP.jpg",The Long Way Home (2015) หนุ่มนักเด้า เอาแรง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.037hdmovie.com
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://hlsp2p.xyz/view/893f38d2-19e8-56bf-9247-471930947b84.m3u8?vhost=streaming-hlsp2p.xyz
+
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/YBcJN5aOEGEw1gkYkAz.jpg",The Place Beyond the Pines (2012) พลิกชะตาท้าหัวใจระห่ำ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.037hdmovie.com
